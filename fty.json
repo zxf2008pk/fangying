@@ -31,7 +31,7 @@
       "api": "csp_DanmakuSpider",
       "searchable": 1,
       "ext": {
-        "apiUrl": "http://127.0.0.1:9321/87654321,https://dm8888.cc.cd/87654321,https://dm9999.cc.cd/87654321",
+        "apiUrl": "https://dm8888.cc.cd/87654321,https://dm9999.cc.cd/87654321",
         "autoPushEnabled": true,
         "danmakuStyle": "模板一",
         "lpAlpha": 0.9

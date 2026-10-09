@@ -17,7 +17,7 @@
       "key": "嗷呜弹幕",
       "type": 3,
       "api": "csp_AAConfigAmns",
-      "jar": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/神龙.jar",
+      "jar": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/神龙.jar",
       "searchable": 0,
       "filterable": 0,
       "quickSearch": 0,
@@ -27,7 +27,7 @@
       "name": "🔰神仙☪弹幕",
       "key": "神仙弹幕",
       "type": 3,
-      "jar": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/jar/danmu.jar",
+      "jar": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/jar/danmu.jar",
       "api": "csp_DanmakuSpider",
       "searchable": 1,
       "ext": {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_腾讯.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_腾讯.js",
       "filterable": 1,
       "key": "cat_腾讯",
       "name": "🔰腾讯☪影视",
@@ -125,7 +125,7 @@
       "type": 3
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_奇艺.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_奇艺.js",
       "filterable": 1,
       "key": "cat_奇艺",
       "name": "🔰奇艺☪影视",
@@ -134,7 +134,7 @@
       "type": 3
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_芒果.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_芒果.js",
       "filterable": 1,
       "key": "芒果",
       "name": "🔰芒果☪影视",
@@ -143,7 +143,7 @@
       "type": 3
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_优酷.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_优酷.js",
       "filterable": 1,
       "key": "cat_优酷.js",
       "name": "🔰优酷☪影视",
@@ -152,7 +152,7 @@
       "type": 3
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_搜狗.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_搜狗.js",
       "filterable": 1,
       "key": "cat_搜狗",
       "name": "🔰搜狗☪影视",
@@ -161,7 +161,7 @@
       "type": 3
     },
     {
-      "api": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_360.js",
+      "api": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/cat/cat_360.js",
       "filterable": 1,
       "key": "cat_360",
       "name": "🔰六零☪影视",
@@ -174,7 +174,7 @@
       "name": "🔰枫叶☪影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh.dpik.top/https://github.com/zxf2007pk/shenlong/blob/main/jar/xbpq250816.jar",
+      "jar": "https://gh-proxy.com/https://github.com/zxf2007pk/shenlong/blob/main/jar/xbpq250816.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,

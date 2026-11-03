@@ -691,6 +691,12 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
+	"doh": [
+  {"name": "系统", "url": "", "a": "系统", "b": ""},
+  {"name": "腾讯", "url": "https://doh.pub/dns-query", "a": "腾讯", "b": "https://doh.pub/dns-query"},
+  {"name": "阿里", "url": "https://dns.alidns.com/dns-query", "a": "阿里", "b": "https://dns.alidns.com/dns-query"},
+  {"name": "冰封", "url": "https://doh.360.cn/dns-query", "a": "冰封", "b": "https://doh.360.cn/dns-query"}
+],
   "lives": [
     {
       "name": "🔰体育",
